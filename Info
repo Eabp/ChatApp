@@ -1,0 +1,3 @@
+La aplicacion ademas de utilizar las clases de socket de java, tambien implementa la Cola para almacenar los diferentes mensajes 
+que se envien, o emular un "historico" que habitualmente encontramos en los chats actuales.    Ademas de aplicar multihilos para 
+separar el proceso de recepcion de mensajes del proceso principal de la aplicacion.
